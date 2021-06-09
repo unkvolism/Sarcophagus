@@ -48,5 +48,5 @@ Here are some details about my setup:
   </details>
   <br>
   
-  ## :confetti_ball: Thanks
-    - [R3TR0](https://github.com/R3tr074)
+  ## :confetti_ball:  Credits / Thanks
+  - [R3TR0](https://https://github.com/R3tr074)
