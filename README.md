@@ -7,7 +7,7 @@ Those are my bspwm dotfiles, hope you find something useful here ^^
 I hope you understand everything here. :wink:
 
 Here are some details about my setup:
-<a href="https://youtu.be/_PTp5mh5_vQ"><img src="screenshots/arch.png" alt="" align="right" width="400px"></a>
+<a href="https://github.com/0x5add"><img src="screenshots/arch.png" alt="" align="right" width="400px"></a>
 - **WM**                           : [bspwm](https://github.com/baskerville/bspwm) :art: 4 changable themes/mode!
 - **Shell**                        : [zsh](https://wiki.archlinux.org/index.php/zsh) :shell: with [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) framework!
 - **Terminal**                     : [allacrity](https://github.com/alacritty/alacritty) :cat:
