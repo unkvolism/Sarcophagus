@@ -1,0 +1,2 @@
+# Sarcophagus
+BSPWM (GruvBox Rice)
