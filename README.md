@@ -29,7 +29,7 @@ Here are some details about my setup:
 ![neofetch](/screenshots/code.jpeg)
 
 ## Terminals 🌊
-![terminal](/screenshots/terms.jpeg
+![terminal](/screenshots/code.jpeg)
 
 <br/><br/><br/>
 
