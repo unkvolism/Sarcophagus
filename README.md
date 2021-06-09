@@ -18,7 +18,7 @@ Here are some details about my setup:
 - **File Manager**                 : [Thunar](https://wiki.archlinux.org/index.php/Thunar) :bookmark: customized sidebar & icon!
 - **Text Editor**                  : [nvim](https://github.com/neovim/neovim) :computer:
 
-<br/><br/><br/>
+<br>
 
 ## Desktop 🍁
 ![desktop](/screenshots/desktop.jpeg)
@@ -32,7 +32,7 @@ Here are some details about my setup:
 ## Terminals 🌊
 ![terminal](/screenshots/terms.jpeg)
 
-<br/><br/><br/>
+<br>
 
 <details>
 <summary>oh-my-zsh & plugins <kbd>optional</kbd></summary>
