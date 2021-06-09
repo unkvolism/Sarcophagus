@@ -33,6 +33,7 @@ Here are some details about my setup:
 
 <br/><br/><br/>
 
+<details>
 <summary>oh-my-zsh & plugins <kbd>optional</kbd></summary>
   
    ```sh
@@ -45,9 +46,7 @@ Here are some details about my setup:
    ```
     
   </details>
-  
-  <details>
-  
+  <br>
   
   ## :confetti_ball: Thanks
     - [R3TR0](https://github.com/R3tr074)
